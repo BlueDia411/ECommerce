@@ -42,7 +42,7 @@
   <strong>HOT ITEMS</strong>
   <div class="row autoplay">
     <div class="col-lg-4">
-      <img src="<?= base_url(); ?>assets/images/Karambit.jpg" class="rounded img-thumbnail" alt="">
+      <img src="<?= base_url(); ?>assets/images/for indonesia.jpg" class="rounded img-thumbnail fit" alt="">
       <div class="card-header">
         <h5>Ruby Karambit</h5>
       </div>
@@ -52,7 +52,7 @@
       </p>
     </div>
     <div class="col-lg-4">
-      <img src="<?= base_url(); ?>assets/images/Karambit-Case-Hardened.jpg" class="rounded img-thumbnail" alt="">
+      <img src="<?= base_url(); ?>assets/images/france-art.jpg" class="rounded img-thumbnail fit" alt="">
       <div class="card-header">
         <h5>Case Hardened Karambit</h5>
       </div>
@@ -62,7 +62,7 @@
       </p>
     </div>
     <div class="col-lg-4">
-      <img src="<?= base_url(); ?>assets/images/Karambit-Doppler-Blackpearl.jpg" class="rounded img-thumbnail" alt="">
+      <img src="<?= base_url(); ?>assets/images/limited cream.jpg" class="rounded img-thumbnail fit" alt="">
       <div class="card-header">
         <h5>Doppler Blackpearl Karambit</h5>
       </div>
@@ -72,7 +72,7 @@
       </p>
     </div>
     <div class="col-lg-4">
-      <img src="<?= base_url(); ?>assets/images/Karambit-Gamma-Doppler.jpg" class="rounded img-thumbnail" alt="">
+      <img src="<?= base_url(); ?>assets/images/spaceship hoodie.jpg" class="rounded img-thumbnail fit" alt="">
       <div class="card-header">
         <h5>Gamma Doppler Karambit</h5>
       </div>
@@ -90,7 +90,7 @@
 <div class="row row-cols-1 row-cols-md-3">
   <a href="" class="col mb-4">
     <div class="card h-100">
-      <img src="assets/images/Karambit-Gamma-Doppler.jpg" class="card-img-top" alt="...">
+      <img src="assets/images/for indonesia.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
