@@ -19,10 +19,6 @@
   margin-left: 10px;
 }
 
-.fit {
-  object-fit: cover;
-}
-
 /* Footer */
 .footer {
     background: #3d3d3d;
