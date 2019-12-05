@@ -48,7 +48,7 @@
       </div>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa aspernatur magnam nobis inventore unde quis harum fuga quasi officiis, beatae ducimus illo, laborum perferendis alias ipsa. Aliquam pariatur rerum officia.</p>
       <p>
-        <a class="btn btn-info" href="<?= base_url();?>detail" role="button">View Detail</a>
+        <a class="btn btn-info" href="<?= base_url(); ?>detail" role="button">View Detail</a>
       </p>
     </div>
     <div class="col-lg-4">
@@ -58,7 +58,7 @@
       </div>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa aspernatur magnam nobis inventore unde quis harum fuga quasi officiis, beatae ducimus illo, laborum perferendis alias ipsa. Aliquam pariatur rerum officia.</p>
       <p>
-        <a class="btn btn-info" href="<?= base_url();?>detail" role="button">View Detail</a>
+        <a class="btn btn-info" href="<?= base_url(); ?>detail" role="button">View Detail</a>
       </p>
     </div>
     <div class="col-lg-4">
@@ -68,7 +68,7 @@
       </div>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa aspernatur magnam nobis inventore unde quis harum fuga quasi officiis, beatae ducimus illo, laborum perferendis alias ipsa. Aliquam pariatur rerum officia.</p>
       <p>
-        <a class="btn btn-info" href="<?= base_url();?>detail" role="button">View Detail</a>
+        <a class="btn btn-info" href="<?= base_url(); ?>detail" role="button">View Detail</a>
       </p>
     </div>
     <div class="col-lg-4">
@@ -78,7 +78,7 @@
       </div>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa aspernatur magnam nobis inventore unde quis harum fuga quasi officiis, beatae ducimus illo, laborum perferendis alias ipsa. Aliquam pariatur rerum officia.</p>
       <p>
-        <a class="btn btn-info" href="<?= base_url();?>detail" role="button">View Detail</a>
+        <a class="btn btn-info" href="<?= base_url(); ?>detail" role="button">View Detail</a>
       </p>
     </div>
   </div>
@@ -88,7 +88,7 @@
 
 <!-- Tampilan Daftar Barang -->
 <div class="row row-cols-1 row-cols-md-3">
-  <div class="col mb-4">
+  <a href="" class="col mb-4">
     <div class="card h-100">
       <img src="assets/images/Karambit-Gamma-Doppler.jpg" class="card-img-top" alt="...">
       <div class="card-body">
@@ -96,8 +96,9 @@
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
-  </div>
-  <div class="col mb-4">
+  </a>
+
+  <a href="" class="col mb-4">
     <div class="card h-100">
       <img src="assets/images/Karambit-Gamma-Doppler.jpg" class="card-img-top" alt="...">
       <div class="card-body">
@@ -105,8 +106,9 @@
         <p class="card-text">This is a short card.</p>
       </div>
     </div>
-  </div>
-  <div class="col mb-4">
+  </a>
+
+  <a href="" class="col mb-4">
     <div class="card h-100">
       <img src="assets/images/Karambit-Gamma-Doppler.jpg" class="card-img-top" alt="...">
       <div class="card-body">
@@ -114,8 +116,9 @@
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
       </div>
     </div>
-  </div>
-  <div class="col mb-4">
+  </a>
+
+  <a href="" class="col mb-4">
     <div class="card h-100">
       <img src="assets/images/Karambit-Gamma-Doppler.jpg" class="card-img-top" alt="...">
       <div class="card-body">
@@ -123,5 +126,5 @@
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
-  </div>
+  </a>
 </div>
