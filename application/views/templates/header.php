@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div>
-                <a class="" href="#">
+                <a class="" href="<?= base_url(); ?>chart">
                     <img src="<?= base_url(); ?>assets/images/shopping-cart.png" width="30" height="30" alt="">
                 </a>
             </div>
