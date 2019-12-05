@@ -25,7 +25,7 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <a class="nav-item nav-link mr-3" href="<?= base_url(); ?>">HOME</a>
-                    <a class="nav-item nav-link mr-3" href="#">SHOP</a>
+                    <a class="nav-item nav-link mr-3" href="<?= base_url(); ?>shop">SHOP</a>
                     <a class="nav-item nav-link mr-3" href="#">ABOUT</a>
                     <a class="nav-item nav-link mr-3" href="#">CONTACT</a>
                 </div>
