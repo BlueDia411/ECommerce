@@ -12,10 +12,28 @@
                     <div class="quantity">
                         <input type="number" min="1" max="9" step="1" value="1">
                     </div>
-                    <button type="button" class="btn btn-primary">Tambah Keranjang</button>
+                    <button type="button" class="btn btn-primary marle">Tambah Keranjang</button>
                 </div>
+                <hr>
             </div>
         </div>
+    </div>
 
+
+</div>
+
+<div class="container martoplus">
+    <div class="row row-cols-2">
+        <strong>Details</strong>
+        <strong>Product Specification</strong>
+    </div>
+    <div><hr class="ver"></div>
+    <div class="row row-cols-2">
+        <p class="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita provident harum, quos explicabo perferendis deserunt vitae qui alias mollitia quia debitis, eaque tempora deleniti! Incidunt obcaecati corrupti enim? Ad, blanditiis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dignissimos sit numquam, facere nesciunt quae suscipit id culpa at ducimus corporis, voluptatibus excepturi rerum enim magnam iusto assumenda. Laborum, voluptatum?</p>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">UPGRADED HANDLE & NAMETAG</li>
+            <li class="list-group-item">STATTRAK™ OPTION AVAILABLE</li>
+            <li class="list-group-item">BIGGER BLADE 440C STAINLESS STEEL</li>
+        </ul>
     </div>
 </div>
